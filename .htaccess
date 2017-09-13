@@ -17,6 +17,10 @@ allow from all
 allow from all
 </files>
 
+<files openloadserver.php>
+allow from all
+</files>
+
 <files notes.php>
 allow from all
 </files>
